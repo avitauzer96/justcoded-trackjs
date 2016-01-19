@@ -110,6 +110,7 @@ window.jsTracker.prototype.getInfo = function (errorType, e) {
       }
 
 
+
   });
 
 };
