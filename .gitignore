@@ -2,7 +2,7 @@
 nbproject/private/
 build/
 nbbuild/
-dist/
+nbproject/
 nbdist/
 nbactions.xml
 .nb-gradle/
